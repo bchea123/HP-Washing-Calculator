@@ -1,0 +1,14 @@
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\bin\Debug\BChea's HP Washing Calculator.exe.config
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\bin\Debug\BChea's HP Washing Calculator.exe
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\bin\Debug\BChea's HP Washing Calculator.pdb
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\bin\Debug\BChea's HP Washing Calculator.xml
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\obj\Debug\BChea's HP Washing Calculator.vbprojAssemblyReference.cache
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\obj\Debug\BChea_s_HP_Washing_Calculator.frmMain.resources
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\obj\Debug\BChea_s_HP_Washing_Calculator.Resources.resources
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\obj\Debug\BChea's HP Washing Calculator.vbproj.GenerateResource.cache
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\obj\Debug\BChea's HP Washing Calculator.exe
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\obj\Debug\BChea's HP Washing Calculator.xml
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\obj\Debug\BChea's HP Washing Calculator.pdb
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\obj\Debug\BChea_s_HP_Washing_Calculator.frmThiefCalculator.resources
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\obj\Debug\BChea_s_HP_Washing_Calculator.frmSplash.resources
+C:\Users\brand_000\Desktop\Brandon\School\Visual Basic .NET (Fall 2019)\Class Projects\BChea's HP Washing Calculator Solution\BChea's HP Washing Calculator\obj\Debug\BChea_s_HP_Washing_Calculator.frmAbout.resources
